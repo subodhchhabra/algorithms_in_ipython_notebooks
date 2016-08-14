@@ -27,6 +27,10 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 - Singly Linked List [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/singly-linked-list.ipynb)]
 
+- Stacks [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/stacks.ipynb)]
+
+- Queues and Deques [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/queues-and-deques.ipynb)]
+
 ### Statistical Analysis
 
 - Linear regression via the least squares fit method [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/statistics/linregr_least_squares_fit.ipynb)]
@@ -45,3 +49,16 @@ If you have any suggestions or want to make additions, I would be very happy if 
 - Counting points inside a hypercube [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/points_in_hybercube.ipynb)]
 
 - Vectorizing a classic `for`-loop in NumPy for calculating Euclidean distances [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/eucldist_numpy_vectorization.ipynb)]
+
+
+### Essentials
+
+- FizzBuzz [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/fizzbuzz.ipynb)]
+- Introduction to Greedy Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/greedy-algorithm-intro.ipynb)]
+- Introduction to Divide-and-Conquer Algorithms [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/divide-and-conquer-algorithm-intro.ipynb)]
+
+### Efficiency
+
+- Finding the Maximum Pairwise Product [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/maximum-pairwise-product.ipynb)]
+- Fibonacci Numbers [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/fibonacci-tree.ipynb)]
+- Greatest Common Divisor [[ IPython nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/efficiency/greatest-common-divisor.ipynb)]
