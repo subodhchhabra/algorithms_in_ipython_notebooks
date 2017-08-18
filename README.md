@@ -19,6 +19,26 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 # Categories
 
+### Algorithm Essentials
+
+
+#### Greedy Algorithms
+
+- Introduction to Greedy Algorithms [[ GitHub ](ipython_nbs/essentials/greedy-algorithm-intro.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/greedy-algorithm-intro.ipynb)]
+- More Greedy Algorithm Examples [[ GitHub ](ipython_nbs/essentials/greedy-algorithm-examples.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/greedy-algorithm-examples.ipynb)]
+- Breadth-First Search [cross-linked] [[ GitHub ](ipython_nbs/search/breadth-first-search.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/breadth-first-search)] 
+- Dijkstra's Algorithm [cross-linked] [[ GitHub ](ipython_nbs/search/dijkstra-algorithm.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/dijkstra-algorithm.ipynb)] 
+
+#### Divide-and-Conquer Algorithms
+
+- Introduction to Divide-and-Conquer Algorithms[[ GitHub ](ipython_nbs/essentials/divide-and-conquer-algorithm-intro.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/divide-and-conquer-algorithm-intro.ipynb)]
+- Binary Search [cross-linked] [[ GitHub ](ipython_nbs/search/binary_search.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/binary_search.ipynb)] 
+- Recursion Examples [[ GitHub ](ipython_nbs/essentials/recursion-examples.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/recursion-examples.ipynb)]
+
+#### Other
+
+- FizzBuzz [[ GitHub ](ipython_nbs/essentials/fizzbuzz.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/fizzbuzz.ipynb)]
+
 ### Sorting Algorithms
 
 - Selection Sort [[ GitHub ](ipython_nbs/sorting/selection_sort.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/sorting/selection_sort.ipynb)]
@@ -27,6 +47,7 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 ### Data Structures
 
+- Implementing a Simple Hash Table [[ GitHub ](ipython_nbs/data-structures/hashtable-1.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/hashtable-1.ipynb)] 
 - Bloom Filters [[ GitHub ](ipython_nbs/data-structures/bloom-filter.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/bloom-filter.ipynb)] 
 - Singly Linked List [[ GitHub ](ipython_nbs/data-structures/singly-linked-list.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/singly-linked-list.ipynb)]
 - Stacks [[ GitHub ](ipython_nbs/data-structures/stacks.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/data-structures/stacks.ipynb)]
@@ -36,6 +57,7 @@ If you have any suggestions or want to make additions, I would be very happy if 
 
 - Binary Search [[ GitHub ](ipython_nbs/search/binary_search.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/binary_search.ipynb)] 
 - Breadth-First Search [[ GitHub ](ipython_nbs/search/breadth-first-search.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/breadth-first-search)] 
+- Dijkstra's Algorithm [[ GitHub ](ipython_nbs/search/dijkstra-algorithm.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/search/dijkstra-algorithm.ipynb)] 
 
 ### Statistical Analysis
 
@@ -54,12 +76,6 @@ If you have any suggestions or want to make additions, I would be very happy if 
 - Vectorizing a classic `for`-loop in NumPy for calculating Euclidean distances [[ GitHub ](ipython_nbs/geometry/eucldist_numpy_vectorization.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/geometry/eucldist_numpy_vectorization.ipynb)]
 
 
-### Essentials
-
-- FizzBuzz [[ GitHub ](ipython_nbs/essentials/fizzbuzz.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/fizzbuzz.ipynb)]
-- Introduction to Greedy Algorithms [[ GitHub ](ipython_nbs/essentials/greedy-algorithm-intro.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/greedy-algorithm-intro.ipynb)]
-- Introduction to Divide-and-Conquer Algorithms Introduction to Greedy Algorithms [[ GitHub ](ipython_nbs/essentials/divide-and-conquer-algorithm-intro.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/divide-and-conquer-algorithm-intro.ipynb)]
-- Recursion Examples [[ GitHub ](ipython_nbs/essentials/recursion-examples.ipynb)] [[ Jupyter nbviewer ](http://nbviewer.ipython.org/github/rasbt/algorithms_in_ipython_notebooks/blob/master/ipython_nbs/essentials/recursion-examples.ipynb)]
 
 ### Efficiency
 
